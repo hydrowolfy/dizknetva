@@ -54,6 +54,7 @@ EPG (Guide Information) data is stored to `.dizquetv/xmltv.xml`
 ## Development
 Building/Packaging Binaries: (uses `browserify`, `babel` and `pkg`)
 ```
+npm install
 npm run build
 npm run compile
 npm run package
